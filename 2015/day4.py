@@ -1,5 +1,4 @@
 import hashlib
-from itertools import count
 
 puzzle_input: str = 'ckczppom'
 
